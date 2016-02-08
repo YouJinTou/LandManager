@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Annuity.cs" />
     <Compile Include="Interfaces\IHolder.cs" />
+    <Compile Include="Interfaces\IPlot.cs" />
     <Compile Include="Leaseholder.cs" />
     <Compile Include="Plot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

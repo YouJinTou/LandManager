@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace LandModels
 {
-    public class Annuity
+    public class Annuity : IComparable<Annuity>
     {
         [Key]
         public int Id { get; set; }
@@ -15,5 +16,12 @@ namespace LandModels
         [Required]
         [Range(1, double.MaxValue)]
         public decimal Amount { get; set; }
+
+        public int? PlotId { get; set; }
+
+        public int CompareTo(Annuity other)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

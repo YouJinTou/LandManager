@@ -34,3 +34,11 @@ D:\Programming\Projects\Land Manager\LandManager\bin\Debug\ro\Xceed.Wpf.AvalonDo
 D:\Programming\Projects\Land Manager\LandManager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
 D:\Programming\Projects\Land Manager\LandManager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 D:\Programming\Projects\Land Manager\LandManager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\System.Data.SQLite.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\System.Data.SQLite.xml
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\EntityFramework.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\EntityFramework.xml
+D:\Programming\Projects\Land Manager\LandManager\bin\Debug\EntityFramework.SqlServer.xml

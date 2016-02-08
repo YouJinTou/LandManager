@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LandModels
 {
-    public class Plot
+    public class Plot : IPlot
     {
         private int id;
         private string district;
@@ -16,6 +16,10 @@ namespace LandModels
         private ICollection<Annuity> annuities;
         private int leaseholderId;
         private IHolder leaseholder;
+
+        public Plot()
+        {
+        }
 
         public Plot(string district, double area, decimal totalPrice,
             decimal pricePerDecare, DateTime purchaseDate,
