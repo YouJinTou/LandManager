@@ -1,5 +1,5 @@
 ﻿using LandData;
-using LandData.Interfaces;
+using LandData.Repositories.Interfaces;
 using LandModels;
 using LandModels.Interfaces;
 using System;
@@ -10,7 +10,7 @@ namespace LandManager.FileWindows
     public partial class AddPlotWindow : Window
     {
         private DatabaseInitializer dbInit;
-        private IRepository repo;
+        private IRepository<IPlot> repo;
         private IPlot plot;
 
         public AddPlotWindow()
@@ -46,7 +46,7 @@ namespace LandManager.FileWindows
             this.plot.PurchaseDate = DateTime.ParseExact(addPurchaseDateDatePicker.Text, "yyy-MM-dd", null);
             this.plot.Leaseholder = new Leaseholder() { Name = addLeaseholderComboBox.Text };
 
-            this.repo.AddPlot(this.plot);
+            this.repo.Add(this.plot);
 
             this.Close();
         }
