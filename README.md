@@ -1,2 +1,2 @@
 # LandManager
-A lightweight desktop application for managing a land portfolio
+A WPF application for managing a land portfolio
