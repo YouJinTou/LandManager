@@ -1,0 +1,16 @@
+D:\Programming\Projects\Land Manager\LandData\obj\Debug\LandData.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\LandData.dll.config
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\LandData.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\LandData.pdb
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\EntityFramework.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\LandModels.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\System.Data.SQLite.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\LandModels.pdb
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\EntityFramework.xml
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Projects\Land Manager\LandData\bin\Debug\System.Data.SQLite.xml
+D:\Programming\Projects\Land Manager\LandData\obj\Debug\LandData.dll
+D:\Programming\Projects\Land Manager\LandData\obj\Debug\LandData.pdb
